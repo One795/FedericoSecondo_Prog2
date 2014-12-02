@@ -45,6 +45,6 @@ main ()
 		scanf("%d",X);
 	}
 	while (X>10)
-	//----------Applco il polinomio di HOrner-------------------------------------------------
+	//----------Applco il polinomio di Horner-------------------------------------------------
 	
 }
