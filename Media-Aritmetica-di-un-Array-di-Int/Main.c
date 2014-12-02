@@ -6,7 +6,7 @@ int MediaAritmetica(int Array[], int N);
 
 
 Autore      : Carmine Cuofano		Matricola: N86001700
-Programma   : Media di un vettore di int
+Programma   : Media di un Array di int
 Data        : 01/12/2014
 
 To Do:
@@ -23,7 +23,7 @@ main ()
             Media;
 
     //Inizializzazione del array da ordinare
-    printf ("Inserisci il numero di elementi del array:");
+    printf ("Inserisci il numero di elementi del array <MAX100>:");
     scanf ("%d",&N);
 
     for (i=0; i<N; i++){
