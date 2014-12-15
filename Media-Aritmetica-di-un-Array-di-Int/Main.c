@@ -9,8 +9,9 @@ Autore      : Carmine Cuofano		Matricola: N86001700
 Programma   : Media di un Array di int ordinato (SelectionSort)
 Data        : 01/12/2014
 
-To Do:  -Complete-
+To Do:  -NoComplete-
 - Aggiungere la Sub del Selection Sort
+- Media dal (K)esimo inserito dal utente
 ------------------------------------------------------------------------------*/
 
 
