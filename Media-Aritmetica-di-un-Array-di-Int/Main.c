@@ -12,6 +12,7 @@ Data        : 01/12/2014
 To Do:  -NoComplete-
 - Aggiungere la Sub del Selection Sort
 - Media dal (K)esimo inserito dal utente
+- La media deve essere solo per le cifre pari 
 ------------------------------------------------------------------------------*/
 
 
