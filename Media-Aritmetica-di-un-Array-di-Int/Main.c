@@ -1,6 +1,6 @@
 #include "stdio.h"
 
-int MediaAritmetica(int Array[], int N);
+float MediaAritmetica(int Array[], int N);
 
 /*==============================================================================
 
@@ -19,8 +19,8 @@ main ()
     //Dichiarazione
     int     Array [100];
     int     i,
-            N,
-            Media;
+            N;
+    float   Media;
 
     //Inizializzazione del array da ordinare
     printf ("Inserisci il numero di elementi del array <MAX100>:");
@@ -37,9 +37,9 @@ main ()
 }
 
 
-int MediaAritmetica(int Array[], int N){
-    int i,
-        Media;
+float MediaAritmetica(int Array[], int N){
+    int     i;
+    float   Media;
 
     for(Media=i=0; i<N; i++){
         Media = Media + Array[i];
