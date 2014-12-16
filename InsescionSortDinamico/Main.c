@@ -41,6 +41,8 @@ main ()
     for (i=0; i<N; i++){
         printf("\nArray[%d]:\t%d", i, Array[i]);
     }
+    
+    //non si usa "free(array);"???
 }
 
 
